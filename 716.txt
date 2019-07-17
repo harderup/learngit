@@ -13,3 +13,4 @@
 (5)过了老师之前讲的那个项目。大体流程是：annotation包->bean包->dao的核心包->dao包->dao的实现类包->service核心包->service包->serveice实现类包->servlet核心包->servlet包->servlet实现类包
 servelce调用dao，servlet调用service
 (6)查看ArrayList源码
+(7)做一道算法题
