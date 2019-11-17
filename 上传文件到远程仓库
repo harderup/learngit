@@ -1,0 +1,7 @@
+①先切换到自己的分支(这里用分支test):git chekout test
+②创建文件，书写文件:vim 文件名
+③添加文件到缓存区:git add 文件名
+④将文件从缓存区添加到仓库:git commit -m "说明"
+⑤切换分支到master:git checkout master
+⑥合并分支到master:git merge 自己的分支名(test)
+⑦提交文件到远程仓库:git push -u origin master
