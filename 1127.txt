@@ -1,0 +1,13 @@
+今天是学习SpringBoot的第一天，用SpringBoot实现了HelloWorld
+SpringBoot相比Spring更加简单
+他的所有配置功能都是已经封装好的
+所以实现起来更加简练
+代码练也减少了
+有一个重要的注解@SpringBootApplication,它用来说明被标注的类是SpringBoot的主配置类，SpringBoot应该运行这个类的main方法来启动SpringBoot应用。
+
+
+刚才那一阵好困啊
+每天晚上都说早睡
+但就是早睡不了啊
+
+睡觉和起床都需要意志力.
